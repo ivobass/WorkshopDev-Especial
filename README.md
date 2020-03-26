@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img width="600" src="logo.jpg" />
+    <img width="600" src="logo.png" />
 </h1>
 [A estrutura desse README foi desenvolvida por : Liandro Wesley](https://github.com/liandro-wesley)
 
@@ -14,9 +14,9 @@ Um caderninho de anotações de estilo amigável. Perfeito para guardar suas ide
 O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvolvimento ocorreu durante a semana OmniStack 11. A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar suas ideias de uma maneira amigável e simples. 
 
 
-<img src="home.PNG" alt="page-home">
-<img src="add-idea.PNG" alt="page-new-idea">
-<img src="ver-idea.PNG" alt="page-view-idea">
+<img src="assets/home.PNG" alt="page-home">
+<img src="assets/add-idea.PNG" alt="page-new-idea">
+<img src="assets/ver-idea.PNG" alt="page-view-idea">
 
 🔧 Tecnologias utilizadas:
 ------------------
