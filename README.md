@@ -2,7 +2,10 @@
 <h1 align="center">
     <img width="600" src="logo.png" />
 </h1>
+
+<p align="center">
 [A estrutura desse README foi desenvolvida por : Liandro Wesley](https://github.com/liandro-wesley)
+
 
 
 <p align="center">
