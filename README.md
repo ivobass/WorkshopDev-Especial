@@ -17,9 +17,9 @@ Um caderninho de anotações de estilo amigável. Perfeito para guardar suas ide
 O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvolvimento ocorreu durante a semana OmniStack 11. A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar suas ideias de uma maneira amigável e simples. 
 
 
-<img src="assets/home.svg" alt="page-home">
-<img src="assets/add-idea.svg" alt="page-new-idea">
-<img src="assets/ver-idea.svg" alt="page-view-idea">
+<img src="assets/home.png" alt="page-home">
+<img src="assets/add-idea.png" alt="page-new-idea">
+<img src="assets/ver-idea.png" alt="page-view-idea">
 
 🔧 Tecnologias utilizadas:
 ------------------
