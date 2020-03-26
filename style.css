@@ -313,8 +313,13 @@ form button:hover{
 }
 
 #page-ideas nav li a{
-  color:white;
+  color:#25282b;
 } 
+
+#page-ideas nav li a:hover{
+  text-decoration: none;
+}
+
 #page-ideas nav li:last-child{
   margin: 0;
 
