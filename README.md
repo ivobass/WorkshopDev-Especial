@@ -4,9 +4,8 @@
 </h1>
 
 <p align="center">
-[A estrutura desse README foi desenvolvida por : Liandro Wesley](https://github.com/liandro-wesley)
-
-
+    
+[*README desenvolvido por - Liandro Wesley*](https://github.com/liandro-wesley)
 
 <p align="center">
 Um caderninho de anotações de estilo amigável. Perfeito para guardar suas ideias
