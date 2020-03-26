@@ -97,7 +97,47 @@
             com ❤️ <a href="http://rocketseat.com.br">Rocketseat</a>
         </footer>
 
+        <div id="modal">
+            <div class="content">
+                <h1>Nova Ideia</h1>
 
+                <form action="">
+
+                    <div class="input-wrapper">
+                        <label for="title">Titulo da ideia</label>
+                        <input type="text" name="title">
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="category">Categoria</label>
+                        <input type="text" name="category">
+                    </div> <!-- escreve div.input-wrapper*4 e aparece 4 vezes-->
+                    <div class="input-wrapper">
+                        <label for="image">Link da imagen</label>
+                        <input type="url" name="image">
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="description">Digite
+                            uma descrição para essa
+                            ideia</label>
+                        <textarea name="description" cols="30" rows="10"></textarea>
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="link">Link da ideia</label>
+                        <input type="url" name="link">
+                    </div>
+                    <a href="#" onclick="onOff()">Voltar</a>
+                    <button>Salvar</button>
+
+
+                </form>
+
+            </div>
+        </div>
+
+        <script src="scripts.js"></script>
 
     </body>
 </html>
