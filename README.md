@@ -41,11 +41,6 @@ https://www.youtube.com/playlist?list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka
 
 
 
-Tecnologias utilizadas:
 
-JAVASCRIPT
-HTML5
-CSS3
 
-Ficheiro Readme.md foi com ajuda do 
 
