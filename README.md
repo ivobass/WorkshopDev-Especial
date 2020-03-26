@@ -1,7 +1,9 @@
 
 <h1 align="center">
-    <img width="600" src="logo.svg" />
+    <img width="600" src="logo.jpg" />
 </h1>
+[A estrutura desse README foi desenvolvida por : Liandro Wesley](https://github.com/liandro-wesley)
+
 
 <p align="center">
 Um caderninho de anotações de estilo amigável. Perfeito para guardar suas ideias
@@ -29,11 +31,6 @@ O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvol
 
 Obrigado por chegar até aqui! Este projeto foi feito com muito ❤
 
-Um projecto para guardar as suas ideias
-
-Sobre o Casa Criativa - Ideias para a crise
-
-O projeto foi explicado por Maiky Brito, instrutor da Rocketseat
 
 Aqui pode ver os videos do projecto:
 
@@ -47,5 +44,5 @@ JAVASCRIPT
 HTML5
 CSS3
 
-
+Ficheiro Readme.md foi com ajuda do 
 
