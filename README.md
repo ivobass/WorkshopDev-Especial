@@ -20,9 +20,9 @@ O projeto foi ministrado por <a href="https://github.com/maykbrito">Maiky Brito<
 🔧 Tecnologias utilizadas:
 ------------------
 
-- <a href="https://www.markdownguide.org"><strong>JAVASCRIPT</strong></a>
-- HTML5
-- CSS3
+- <strong>JAVASCRIPT</strong>
+- <strong>HTML5</strong>
+- <strong>CSS3</strong>
 
 💬 Fale comigo
 ------------------
