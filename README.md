@@ -24,7 +24,7 @@ O projeto foi ministrado por <a href="https://github.com/maykbrito">Maiky Brito<
 🔧 Tecnologias utilizadas:
 ------------------
 
-- JAVASCRIPT
+- <a href="https://www.markdownguide.org"><strong>JAVASCRIPT</strong></a>
 - HTML5
 - CSS3
 
