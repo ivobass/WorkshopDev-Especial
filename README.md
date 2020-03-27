@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-[A estrutura desse README foi desenvolvida por : Liandro Wesley](https://github.com/liandro-wesley)
+A estrutura desse README foi desenvolvida por <a href="https://github.com/liandro-wesley">Liandro Wesley</a>,  que me ensinou a utilizar o <a href="https://www.markdownguide.org"><strong>MARKDOWN</strong></a>
 
 
 
@@ -14,7 +14,7 @@ Um caderninho de anotações de estilo amigável. Perfeito para guardar suas ide
 
 📌 Sobre o Casa Criativa - Ideias para a crise
 ------------------
-O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvolvimento ocorreu durante a semana OmniStack 11. A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar suas ideias de uma maneira amigável e simples. 
+O projeto foi ministrado por <a href="https://github.com/maykbrito">Maiky Brito</a>, instrutor da <a href="http://rocketseat.com.br">Rocketseat</a> e seu desenvolvimento ocorreu durante a semana OmniStack 11. A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar suas ideias de uma maneira amigável e simples. 
 
 
 <img src="assets/home.PNG" alt="page-home">
