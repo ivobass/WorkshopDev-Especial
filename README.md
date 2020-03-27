@@ -3,10 +3,6 @@
     <img width="600" src="logo.png" />
 </h1>
 
-<p align="center">
-A estrutura desse README foi desenvolvida por <a href="https://github.com/liandro-wesley">Liandro Wesley</a>,  que me ensinou a utilizar o <a href="https://www.markdownguide.org"><strong>MARKDOWN</strong></a>
-
-
 
 <p align="center">
 Um caderninho de anotações de estilo amigável. Perfeito para guardar suas ideias
@@ -39,6 +35,9 @@ Aqui pode ver os videos do projecto:
 
 https://www.youtube.com/playlist?list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka
 
+
+<p align="center">
+A estrutura desse README foi desenvolvida por <a href="https://github.com/liandro-wesley">Liandro Wesley</a>,  que me ensinou a utilizar o <a href="https://www.markdownguide.org"><strong>MARKDOWN</strong></a>
 
 
 
